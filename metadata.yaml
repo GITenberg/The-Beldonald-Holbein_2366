@@ -1,0 +1,32 @@
+_repo: The-Beldonald-Holbein_2366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: An ancient American cousin, who has the look of a Holbein subject, is
+  such a success in London that the relative who brought her over as her companion,
+  to be a foil, sends her back again. To the painter who narrates the story the attention
+  has spoiled the old lady.
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Portrait painters -- Fiction'
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Artists'' models -- Fiction'
+- !lcsh 'Cousins -- Fiction'
+- GITenberg
+title: The Beldonald Holbein
+url: http://www.gutenberg.org/ebooks/2366
