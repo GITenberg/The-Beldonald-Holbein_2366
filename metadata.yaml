@@ -1,5 +1,8 @@
 _repo: The-Beldonald-Holbein_2366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -12,6 +15,8 @@ description: An ancient American cousin, who has the look of a Holbein subject, 
   such a success in London that the relative who brought her over as her companion,
   to be a foil, sends her back again. To the painter who narrates the story the attention
   has spoiled the old lady.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2366#The-Beldonald-Holbein
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
